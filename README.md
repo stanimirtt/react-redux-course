@@ -5,3 +5,5 @@ React with Redux course. Including ESLint and Prettier integration.
 > git clone https://github.com/stanimirtt/react-redux-course.git
 > cd react-redux-course
 ```
+
+[Presentation based on the samples](https://www.slideshare.net/StanimirTodorov1/react-with-redux)
