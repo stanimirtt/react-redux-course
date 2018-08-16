@@ -6,4 +6,4 @@ React with Redux course. Including ESLint and Prettier integration.
 > cd react-redux-course-2017
 ```
 
-[Presentation based on the samples](https://www.slideshare.net/StanimirTodorov1/react-with-redux)
+[Presentation based on the samples](https://www.slideshare.net/StanimirTodorov1/react-with-redux-2017)
